@@ -1,0 +1,3 @@
+# Ada Exception Handling Bug
+
+This repository demonstrates a potential error related to exception handling in Ada programs, specifically concerning array bounds and unexpected input. The `bug.ada` file contains code that might throw an exception not directly related to array indexing issues. The `bugSolution.ada` provides a solution that addresses this issue. This is an uncommon error, as it involves understanding how Ada's exception handling interacts with array processing and potential error conditions beyond index range.
